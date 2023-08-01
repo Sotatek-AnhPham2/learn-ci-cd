@@ -10,3 +10,4 @@ jobs:
     steps:
       - name: Step hi
         run: echo "Hello world"
+          npm -v
